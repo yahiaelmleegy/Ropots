@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600381857 source:c:\users\ascom\desktop\2nd_break\main.c
+	<stdio.h>
+	<stdlib.h>
+
